@@ -10,7 +10,7 @@
 •Developer: SophiaLuu<br>
 •QA: 领头的测试者SophiaLuu<br>
 •Goals: 利用人工智能，做一个社交平台信息过滤系统<br>
-Background and strategic fit:因为之前看过一篇文章，在大数据时代，是来自facebook员工的吐槽，在长期的工作压力下，他们每天都看着充满刺激的信息内容，获得了PSD综合证。<br>
+Background and strategic fit:因为之前看过一篇文章，在大数据时代，是来自facebook员工的吐槽，在长期的工作压力下，他们每天都看着充满刺激的信息内容，获得了PTSD综合证。<br>
 
 Assumptions: 列出所有假设丶如用户丶技术丶或业务的架设。还没想好。<br>
 需求 Requirements: 一一列出 用户案例（User story）<br>
