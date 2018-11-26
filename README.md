@@ -10,5 +10,5 @@
 •Developer: SophiaLuu<br>
 •QA: 领头的测试者SophiaLuu<br>
 •Goals: 利用人工智能，做一个信息过滤系统<br>
-用户：信息筛选者，如Facebook员工。
+用户：社交平台信息筛选者，如Facebook员工。
 是否有可行性？那就站在巨人的肩膀上，做毕业照人脸识别..
