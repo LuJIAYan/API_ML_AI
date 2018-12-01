@@ -24,7 +24,7 @@ Document Status |进行中
 ### 结构图总览
 http://naotu.baidu.com/file/580044b659dd426ae256e9e206dcb933?token=8601e1190acf6156
 
-<img border="0" src="/images/思维导图.png" alt="Pulpit rock" width="304" height="228">
+<img border="0" src="/images/思维导图.png" alt="Pulpit rock" width="604" height="528">
 
 
 ### 4.策略（strategic fit）：
@@ -58,10 +58,12 @@ Axure预览网址/图片
 ### 8.问题（questions）：
 
 列出以上需求文件做完旳话可以完成什麽样的问题
+1.产品的初稿确定，分四个页面，各有什么功能。
 
 ### 9不能做（not doing）：
 
 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这
+原型的完善，功能的完善..
 
 
 
