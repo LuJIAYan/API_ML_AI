@@ -56,6 +56,7 @@ title | User story|importance|notes|
 ### 7.用户交互和设计（user interaction and design）
 
 Axure预览网址/图片
+ https://lujiayan.github.io/API_yuanxing/
 ### 8.问题（questions）：
 
 列出以上需求文件做完旳话可以完成什麽样的问题<br>
