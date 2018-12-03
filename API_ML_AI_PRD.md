@@ -18,7 +18,7 @@ Document Status |进行中
  2. 人们常说大学就是社会的缩影，这个APP可以方便日后有需要的话，可以利用大学的人力资源。
  3. 可以回忆大学的生活，看到每个人的成长
  4. 人脸识别技术的应用广泛,利用人脸对比技术，抓取毕业照学生人脸特征，与人脸数据库录入信息（毕业头像，姓名，性别等）做详细对比匹配
- 5. https://blog.csdn.net/u011686167/article/details/78943824 美颜案例
+ 5. https://blog.csdn.net/u011686167/article/details/78943824 美颜贴图定位代码案例
  6. http://ai.baidu.com/tech/face 百度api
 
 ### 结构图总览
