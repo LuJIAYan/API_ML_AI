@@ -1,11 +1,11 @@
 #  毕业通讯社交APP产品PRD
 ### 1.产品需求（Product Requirements）：
 
-目标发行时间 | 2018年12月3日
+
 ---|---
 owner | Sophialuu
 designer | Sophialuu
-Document Status |进行中
+Target release|2018年12月3日
 Document Status|1.0
 Developer| Sophialuu
 QA| Sophialuu
