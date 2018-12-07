@@ -6,6 +6,9 @@
 owner | Sophialuu
 designer | Sophialuu
 Document Status |进行中
+Document Status|1.0
+Developer| Sophialuu
+QA| Sophialuu
 
 
 ### 2.目标（Goals）：
