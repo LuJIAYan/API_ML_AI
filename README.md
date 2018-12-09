@@ -62,7 +62,7 @@ Axure预览网址/图片
 3.. API调用代码档
  https://github.com/LuJIAYan/API_ML_AI/blob/master/API_face%20recognition%20(1).ipynb
 4.建立人脸库
-![人脸库](images/人脸库1.jpg)
+![人脸库](images/人脸库1.png)
 ### 7.问题（questions）：
 
  1. 角度、光线、发型、脸型相似等干扰分类。
