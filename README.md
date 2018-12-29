@@ -4,9 +4,9 @@ Target release | 2018年12月3日
 ---|---
 owner | Sophialuu
 designer | Sophialuu
-Document Status|3.0
 Developer| Sophialuu
 QA| Sophialuu
+Document Status|3.0
 
 ## 2.Introduction：
 “毕业生”APP是一个提供给毕业生回忆与联系大学的毕业通讯社交APP。
