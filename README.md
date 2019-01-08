@@ -96,7 +96,7 @@ title | User story |  importance |notes |技术
 * [百度API调用代码档](https://github.com/LuJIAYan/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6API_face%20recognition.ipynb)
 
 * 建立人脸库
-![](images/建立人脸库.png)
+![](images/创建人脸库.png)
 * 添加人脸
 ![](images/添加人脸.png)
 * 人脸搜索
